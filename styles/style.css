@@ -1,0 +1,21 @@
+body{
+    background-color: #B9DCF0;
+    /* #6AB4DC */
+}
+.yellowtail{
+    font-family: 'Yellowtail', cursive;
+}
+.card{
+    background-color: #E2E8F5;
+    border: none;
+}
+.card a{
+    color: #27659A;
+}
+.card a:hover{
+    text-decoration: none;
+}
+.card-text{
+    font-family: 'Yellowtail', cursive;
+    font-size: 15pt;
+}
